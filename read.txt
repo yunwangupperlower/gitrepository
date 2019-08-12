@@ -1,5 +1,2 @@
-git is a version control system.
-git is free software.
-:wq
-hello git
-windows
+Git is a distributed version control system.
+Git is free software.
